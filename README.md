@@ -1,0 +1,1 @@
+# manawil.eslint-config
