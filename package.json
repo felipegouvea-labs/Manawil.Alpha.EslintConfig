@@ -1,5 +1,5 @@
 {
-  "name": "@manawil/eslint-config",
+  "name": "@mw-alpha/eslint-config",
   "version": "1.0.0",
   "description": "ESLint configuration used by Manawil Modas",
   "main": "index.js",
